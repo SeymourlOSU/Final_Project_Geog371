@@ -14,10 +14,10 @@ Reflection on the course of designing your web map: In reflection, at the end of
 The data i got for this was from Benton Counties Gis data directory (http://gis.co.benton.or.us/gisdata/) and was further manipulated by me in ArcMap. 
 
 Libraries (e.g., Leaflet) and Web Services (e.g., github, basemap) in use
-Throughout the course of this project i used Leaflet , Mapbox, 
+Throughout the course of this project I used Leaflet sytlesheets  , Mapbox basemaps, Bo Zhao's https://github.com/jakobzhao for help, and my own respository to host the HTML and associated files 
 
-Credit
+Credit: leaflet, mapbox, github.
 
-Acknowledgement
+Acknowledgement: I used code snippets  https://github.com/jakobzhao and https://github.com/hannahfriedrich to help create this map
 
-Other things necessary to inform the audience of your web map.
+
